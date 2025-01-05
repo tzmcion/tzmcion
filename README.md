@@ -16,5 +16,8 @@ Sometimes I see people fork my projects. Fell free to ask me anything about them
 - 📫 mail:tymsonekjelonek@gmail.com
 #
 ⚡ Fun fact: I love music and I play piano a lot!
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/513d7f73-88c1-4474-9c35-a3181761c4e6" width="60" />
+</p>
 
 Ciao Ciao!
