@@ -8,16 +8,20 @@ Currently I am working on a project for detecting structural changes in cells (M
 My strong sides are:
   - FrontEnd development with ReactJS, NextJS, SCSS, & Typescript
   - C++ skills, mainly OpenCV and SDL libraries
-  - Small Python and AI skills in Keras/Tensorflow, and DearPyGui
+  - Small Python and AI skills in Keras/Tensorflow, DearPyGui
+  - BASH/LINUX programming, Automatization, Test Automatization
   - I speak Porteguese, Polish and English
+
+Please fell free to visit some of my projects:
+  - 🎹 Piano-Midi visualization app "Piano-Blocks-App": https://www.pianoblocksapp.com/
+  - 🧬 Tool for classification and segmentation of cells : https://github.com/tzmcion/Cell-Morphology
+  - 🌎 Student Conference "Genomica" website: https://www.genomica-krakow.pl/
+  - 🌎 Student Conference "BioMeeting" website: https://github.com/tzmcion/bio-meeting
 
 Sometimes I see people fork my projects. Fell free to ask me anything about them:
 - 💬 Instagram: tymsonekjelonek,
 - 📫 mail:tymsonekjelonek@gmail.com
 #
 ⚡ Fun fact: I love music and I play piano a lot!
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/513d7f73-88c1-4474-9c35-a3181761c4e6" width="60" />
-</p>
 
 Ciao Ciao!
