@@ -4,7 +4,6 @@ I am Tymoteusz, I am 22, currently working as Quality Data Master in OPmobility.
 I work mainly with Images and Frontend developement. I invite you to see my pinned projects
 They are very interesting 😄.
 
-Currently I am working on a project for detecting structural changes in cells (Morphology).
 My strong sides are:
   - FrontEnd development with ReactJS, NextJS, SCSS, & Typescript
   - C++ skills, mainly OpenCV and SDL libraries
@@ -12,7 +11,7 @@ My strong sides are:
   - BASH/LINUX programming, Automatization, Test Automatization
   - I speak Porteguese, Polish and English
 
-Please fell free to visit some of my projects:
+### Please fell free to visit some of my projects:
   - 🎹 Piano-Midi visualization app "Piano-Blocks-App": https://www.pianoblocksapp.com/
   - 🧬 Tool for classification and segmentation of cells : https://github.com/tzmcion/Cell-Morphology
   - 🌎 Student Conference "Genomica" website: https://www.genomica-krakow.pl/
